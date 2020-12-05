@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Speed-Typing-using-React-Hooks/static/css/main.f2eb72df.chunk.css",
+    "main.js": "/Speed-Typing-using-React-Hooks/static/js/main.dbe3adba.chunk.js",
+    "main.js.map": "/Speed-Typing-using-React-Hooks/static/js/main.dbe3adba.chunk.js.map",
+    "runtime-main.js": "/Speed-Typing-using-React-Hooks/static/js/runtime-main.2a242ebc.js",
+    "runtime-main.js.map": "/Speed-Typing-using-React-Hooks/static/js/runtime-main.2a242ebc.js.map",
+    "static/js/2.ebd63b2b.chunk.js": "/Speed-Typing-using-React-Hooks/static/js/2.ebd63b2b.chunk.js",
+    "static/js/2.ebd63b2b.chunk.js.map": "/Speed-Typing-using-React-Hooks/static/js/2.ebd63b2b.chunk.js.map",
+    "index.html": "/Speed-Typing-using-React-Hooks/index.html",
+    "precache-manifest.c6a22ea8d60170795c30f2a750df4893.js": "/Speed-Typing-using-React-Hooks/precache-manifest.c6a22ea8d60170795c30f2a750df4893.js",
+    "service-worker.js": "/Speed-Typing-using-React-Hooks/service-worker.js",
+    "static/css/main.f2eb72df.chunk.css.map": "/Speed-Typing-using-React-Hooks/static/css/main.f2eb72df.chunk.css.map",
+    "static/js/2.ebd63b2b.chunk.js.LICENSE.txt": "/Speed-Typing-using-React-Hooks/static/js/2.ebd63b2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a242ebc.js",
+    "static/js/2.ebd63b2b.chunk.js",
+    "static/css/main.f2eb72df.chunk.css",
+    "static/js/main.dbe3adba.chunk.js"
+  ]
+}
